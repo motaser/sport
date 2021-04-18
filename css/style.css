@@ -1,0 +1,28 @@
+header{
+  background-color: gold;
+}
+h1{
+  text-align: center;
+
+}
+a{
+  text-decoration: none;
+
+}
+nav ul li {
+  border: 1px solid red;
+  width: 100px;
+  padding:  5px;
+  display: inline-block;
+
+}
+#m3{
+  background-color: green;
+
+}
+img{
+  width: 300px;
+}
+footer{
+  background: blue;
+}
